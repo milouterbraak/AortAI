@@ -5,4 +5,4 @@ This tool includes the segmentation of the aorta and consequently, the extractio
 
 The code will be made publicly available after acceptance of the manuscript
 
-<img width="4434" height="2300" alt="AortAI" src="https://github.com/user-attachments/assets/08ca6221-61e2-41d6-9daf-f666d7e326bd" />
+<img width="2217" height="1150" alt="AortAI" src="https://github.com/user-attachments/assets/08ca6221-61e2-41d6-9daf-f666d7e326bd" />
